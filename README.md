@@ -8,7 +8,7 @@ Building scalable web applications, REST & GraphQL APIs, mobile applications and
 
 Passionate about modern frontend development, backend engineering and cloud technologies.
 
-🚀 Interested in ReactJS · JavaScript · Full Stack Development · AWS Cloud
+🚀 Interested in ReactJS · JavaScript · Full Stack Development · AWS Cloud · Networking
 
 📍 India · Open to Software Development Opportunities
 
@@ -28,7 +28,7 @@ My primary interests include **ReactJS, JavaScript, Python and backend developme
 
 I enjoy building complete applications — from designing user interfaces and developing APIs to database integration, authentication, business logic and deployment.
 
-I'm also enthusiastic about **AWS and Cloud technologies** and continuously expanding my knowledge in cloud architecture, scalable applications and modern development practices.
+I'm also enthusiastic about **AWS, Databricks and Networking**, and continuously expanding my knowledge in cloud architecture, data engineering, networking fundamentals and modern development practices.
 
 ### 💡 Currently Focused On
 
@@ -37,7 +37,9 @@ I'm also enthusiastic about **AWS and Cloud technologies** and continuously expa
 - 🐍 Python development
 - 🔧 Backend development with NestJS & Laravel
 - 📱 React Native & Android mobile applications
-- ☁️ AWS & Cloud technologies
+- ☁️ AWS & Cloud Architecture Fundamentals (Currently Preparing/Learning)
+- 🧱 Databricks & Data Engineering Fundamentals (Currently Preparing/Learning)
+- 🌐 Networking Fundamentals — TCP/IP, OSI Model, DNS, HTTP/HTTPS, Subnetting, Routing (Currently Preparing/Learning)
 - 🗄️ MySQL & database design
 - 🔌 REST & GraphQL APIs
 - 🤖 AI-assisted development with GitHub Copilot
@@ -56,7 +58,8 @@ I'm also enthusiastic about **AWS and Cloud technologies** and continuously expa
 - 📱 Work with ITSM mobile/Android applications
 - 🔐 Implement authentication, CRUD operations and business logic
 - 🔗 Integrate frontend applications with backend APIs
-- ☁️ Explore AWS and cloud-based application development
+- ☁️ Explore AWS, Databricks and cloud/data-based application development
+- 🌐 Explore networking fundamentals for cloud-connected applications
 - 🤖 Use GitHub Copilot and AI-assisted development tools
 
 ---
@@ -101,9 +104,14 @@ I'm also enthusiastic about **AWS and Cloud technologies** and continuously expa
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### ☁️ Cloud & Development
+### ☁️ Cloud, Data & Networking (Currently Preparing/Learning)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP_·_DNS_·_HTTP(S)-4B5563?style=for-the-badge)
+
+### 🧰 Development
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -231,9 +239,12 @@ Machine learning project for Parkinson's disease prediction using speech-related
 
 ### 🌱 Currently Learning
 
+![AWS](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-Preparing-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_Certified_Data_Engineer_Associate-Preparing-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_Certified_Data_Engineer_Professional-Preparing-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking_Fundamentals-Preparing-4B5563?style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Improving-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Cloud_Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -248,8 +259,10 @@ I'm particularly interested in opportunities involving:
 - 🔧 **Backend Developer**
 - 📱 **React Native / Mobile Developer**
 - ☁️ **AWS / Cloud Development**
+- 🧱 **Databricks / Data Engineering**
+- 🌐 **Networking**
 
-I'm enthusiastic about learning **AWS Cloud technologies** and applying cloud services to build scalable, reliable and production-ready applications.
+I'm enthusiastic about learning **AWS Cloud, Databricks and Networking fundamentals** and applying cloud, data engineering and networking concepts to build scalable, reliable and production-ready applications.
 
 ---
 
